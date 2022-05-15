@@ -53,8 +53,11 @@ Related Work:
 Qi et. al., PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 https://github.com/gkadusumilli/kaolin_1/tree/master/Documents/kaolin-0.1
 https://arxiv.org/abs/1612.00593
+https://www.sciencedirect.com/science/article/pii/S2468502X21000395
+https://ieeexplore.ieee.org/document/9696941
+
 
 Github repo: 
 jongchyisu/mvcnn_pytorch
 nikitakaraevv/pointnet
-
+gkadusumilli/kaolin_1
